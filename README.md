@@ -17,3 +17,4 @@ npm install -g typescript
 tsc
 node dist/<filename>.js
 ```
+prueba
